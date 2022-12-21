@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Definiranje klasa i prava pristupa", "Definiranje klasa i prava pristupa.csproj", "{EAE0202C-BA16-43A7-BE4B-224ED335077B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE0202C-BA16-43A7-BE4B-224ED335077B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE0202C-BA16-43A7-BE4B-224ED335077B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE0202C-BA16-43A7-BE4B-224ED335077B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE0202C-BA16-43A7-BE4B-224ED335077B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0804DF74-09DA-4BD0-92D8-8E1F94F50CBA}
+	EndGlobalSection
+EndGlobal

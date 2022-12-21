@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Documents\GabrielCondric\Definiranje klasa i prava pristupa\bin\Debug\Definiranje klasa i prava pristupa.exe.config
+C:\Users\Ucenik\Documents\GabrielCondric\Definiranje klasa i prava pristupa\bin\Debug\Definiranje klasa i prava pristupa.exe
+C:\Users\Ucenik\Documents\GabrielCondric\Definiranje klasa i prava pristupa\bin\Debug\Definiranje klasa i prava pristupa.pdb
+C:\Users\Ucenik\Documents\GabrielCondric\Definiranje klasa i prava pristupa\obj\Debug\Definiranje klasa i prava pristupa.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\GabrielCondric\Definiranje klasa i prava pristupa\obj\Debug\Definiranje klasa i prava pristupa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\GabrielCondric\Definiranje klasa i prava pristupa\obj\Debug\Definiranje klasa i prava pristupa.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\GabrielCondric\Definiranje klasa i prava pristupa\obj\Debug\Definiranje klasa i prava pristupa.exe
+C:\Users\Ucenik\Documents\GabrielCondric\Definiranje klasa i prava pristupa\obj\Debug\Definiranje klasa i prava pristupa.pdb
